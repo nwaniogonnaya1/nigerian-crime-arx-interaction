@@ -87,7 +87,7 @@ Macroeconomic and social indicators were compiled from official releases by the 
 If you reference this codebase or methodology, please cite:
 ```bibtex
 @mastersthesis{Nwani2026,
-  author  = {Nwani, Ogonnaya Abraham},
+  author  = {Nwani, Ogonnaya},
   title   = {Dynamic Effect of Economic and Social Determinants on Nigerian Crime Rate: An Autoregressive Model with Exogenous and Interaction Terms},
   school  = {Olabisi Onabanjo University},
   address = {Ago-Iwoye, Ogun State, Nigeria},
@@ -97,7 +97,7 @@ If you reference this codebase or methodology, please cite:
 ```
 
 ## Contact
-**Nwani Ogonnaya Abraham**  
+**Nwani Ogonnaya**  
 MSc Statistics | BSc Computer Science with Statistics  
 Department of Statistics, Olabisi Onabanjo University (OOU)  
 GitHub: [://github.com](https://://github.com) | Email: [nwaniogonnayaabraham@gmail.com](mailto:nwaniogonnayaabraham@gmail.com)
