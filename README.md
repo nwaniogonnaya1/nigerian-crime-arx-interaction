@@ -52,8 +52,8 @@ The study investigates how macroeconomic shocks and socio-demographic determinan
 ### Installation & Execution
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com[your-github-username]/[your-repo-name].git
-   cd [your-repo-name]
+   git clone https://github.com
+   cd Dynamic-Effect-of-Economic-and-Social-Determinants-on-Nigerian-Crime-Rate
    ```
 
 2. **Install Python dependencies:**
@@ -100,4 +100,4 @@ If you reference this codebase or methodology, please cite:
 **Nwani Ogonnaya Abraham**  
 MSc Statistics | BSc Computer Science with Statistics  
 Department of Statistics, Olabisi Onabanjo University (OOU)  
-Email: [nwaniogonnayaabraham@gmail.com](mailto:nwaniogonnayaabraham@gmail.com)
+GitHub: [://github.com](https://://github.com) | Email: [nwaniogonnayaabraham@gmail.com](mailto:nwaniogonnayaabraham@gmail.com)
